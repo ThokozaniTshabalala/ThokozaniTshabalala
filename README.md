@@ -1,24 +1,3 @@
-<section class="h-wrapper">
-  <div class="h-container w-container mx-auto flex justify-between items-center">
-    <!-- Name Section -->
-    <div class="logo-section flex items-center">
-      <h3 class="font-semibold text-black">Thokozani Tshabalala</h3>
-    </div>
-
-    <!-- Navigation Section -->
-    <div class="flex space-x-8 items-center">
-      <span class="text-gray-600 font-medium">Software Dev</span>
-      <span class="text-gray-600 font-medium">Business Analyst</span>
-    </div>
-
-    <!-- Contact Me Button -->
-    <div class="flex items-center ml-8">
-      <button class="py-2 px-6 bg-gradient-to-r from-orange-400 to-orange-600 rounded-md text-white font-medium transition-all duration-300 ease-in-out transform hover:scale-105 focus:outline-none">
-        <a href="mailto:thokozanierick02@gmail.com" class="text-white">Contact Me</a>
-      </button>
-    </div>
-  </div>
-</section>
 
 <h1 align="center">Hi 👋, I'm Thokozani Tshabalala</h1>
 <h3 align="center">A Software Developer with a lot of ideas</h3>
