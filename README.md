@@ -2,9 +2,6 @@
   <img src="./Thokozani_Tshabalala_DREAM-AND-PHONES-BACKGROUNF_WITH-LOGO.png" alt="Thokozani Dreams Background" />
 </div>
 
-# Hi 👋, I'm Thokozani Tshabalala
-
-
 <h1 align="center">Hi 👋, I'm Thokozani Tshabalala</h1>
 <h3 align="center">A Software Developer with a lot of ideas</h3>
 
