@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./thokozani_dreams_background.png" alt="Thokozani Dreams Background" />
+  <img src="./Thokozani_Tshabalala_DREAM-AND-PHONES-BACKGROUNF_WITH-LOGO.png" alt="Thokozani Dreams Background" />
 </div>
 
 # Hi 👋, I'm Thokozani Tshabalala
