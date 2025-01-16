@@ -1,4 +1,4 @@
-![Thokozani Dreams Background](./thokozani_dreams_background.png)
+![Thokozani Dreams Background](./Thokozani_Tshabalala_DREAM-AND-PHONES-BACKGROUNF_WITH-LOGO.png)
 
 <h1 align="center">Hi 👋, I'm Thokozani Tshabalala</h1>
 <h3 align="center">A Software Developer with a lot of ideas</h3>
